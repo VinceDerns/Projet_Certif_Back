@@ -50,4 +50,4 @@ if (
 }
 
 //je redirige mon utilisateur vers le formulaire
-header('location:form-inscription.php');
+header('location:form_inscription.php');
